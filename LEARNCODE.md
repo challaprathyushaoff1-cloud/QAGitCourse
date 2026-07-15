@@ -13,3 +13,6 @@ This repository documents my 180-day journey to become a Salesforce QA Automatio
 - Playwright
 - Salesforce
 - AI for QA
+
+name = input("Enter your name: ")
+print("Welcome", name)

@@ -1,4 +1,4 @@
-from os import name
+from os import name, replace
 
 
 print("Hello, This is my first python program")
@@ -32,3 +32,15 @@ print("Sum:", a + b)
 print("Difference:", a - b)
 print("Product:", a * b)
 print("Quotient:", a / b)
+
+age = 25
+print("Age:", age)
+height = 5.9
+print("Height:", height)
+name = "Prathyusha"
+Role = "QA Automation Engineer"
+
+Int   = 10
+Float = 10.5      
+double = 20.5
+

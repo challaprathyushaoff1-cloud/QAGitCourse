@@ -125,4 +125,11 @@ print("Trunc of 2.3:", math.trunc(2.3))    # Returns 2
 #Random Numbers
 
 import random
-random_number = random.randint(1, 100)  # Generates a random integer between
+random_number = random.randint(1, 100)  # Generates a random integer between 1 and 100
+print("Random number:", random_number)
+
+#validating numbers
+x=5
+if isinstance(x, int):
+    print("x is an integer")    
+    
